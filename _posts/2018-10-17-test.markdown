@@ -1,5 +1,5 @@
 ---
-layout: 杨青微博测试
+layout: git推送测试
 title:  "这是一个测试用的微博页面"
 date:   2018-10-17 11:50:27 +0800
 categories: jekyll update
