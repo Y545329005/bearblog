@@ -4,7 +4,11 @@ email: your-email@example.com
 description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 baseurl: ""
+<<<<<<< HEAD
 url: "http://raymondbear.github.io/"
+=======
+url: ""
+>>>>>>> b72c5952493913a71867109dc9f28469438d3664
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
