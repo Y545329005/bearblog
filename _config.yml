@@ -3,7 +3,7 @@ name: 杨青
 email: 545329005@qq.com
 description: 这是一个用于记录学习成果的博客 
 
-baseurl: "http://raymondbear.github.io/"
+baseurl: #"http://raymondbear.github.io/"
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
