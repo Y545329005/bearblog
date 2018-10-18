@@ -3,13 +3,6 @@ name: 杨青
 email: 545329005@qq.com
 description: 这是一个用于记录学习成果的博客 
 
-<<<<<<< HEAD
-baseurl: #"http://raymondbear.github.io/"
-=======
-baseurl: "http://raymondbear.github.io/"
->>>>>>> 074fde963bb46581a892fe823d2c11ddb45c4df4
-url: ""
-
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
